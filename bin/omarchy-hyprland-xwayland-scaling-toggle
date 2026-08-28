@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# omarchy:summary=Toggles compositor upscaling for X11 apps that ignore HiDPI scaling hints.
+
+omarchy-hyprland-toggle xwayland-scaling
